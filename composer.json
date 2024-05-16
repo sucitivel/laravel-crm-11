@@ -40,7 +40,7 @@
         "dcblogdev/laravel-xero": "*",
         "doctrine/dbal": "*",
         "guzzlehttp/guzzle": "*",
-        "illuminate/support": "*",
+        "illuminate/support": "^10|^11",
         "kyslik/column-sortable": "*",
         "lab404/laravel-auth-checker": "*",
         "laracasts/flash": "*",
