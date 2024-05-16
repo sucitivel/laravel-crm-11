@@ -48,7 +48,7 @@
         "livewire/livewire": "*",
         "mpdf/mpdf": "*",
         "owen-it/laravel-auditing": "*",
-        "protonemedia/laravel-form-components": "*",
+        "protonemedia/laravel-form-components": "3.8.0",
         "rinvex/countries": "*",
         "spatie/laravel-permission": "*",
         "venturedrake/laravel-encryptable": "*"
